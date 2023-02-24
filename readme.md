@@ -6,7 +6,7 @@
   >libevent v2.1
 * build<br>
   ```shell
-  cmake
+  cmake CMakeLists.txt
   make
   ```
 * feature<br>
