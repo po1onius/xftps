@@ -9,14 +9,6 @@
   cmake CMakeLists.txt
   make
   ```
-* feature<br>
-
-  * 线程池
-  * libevent
-  * C11
-  * task queue
-  * FTP<br>
-
   使用遵守FTP协议的客户端即可连接，如filezilla
 * reference<br>
   * RFC959 <https://www.ietf.org/rfc/rfc959.txt>
